@@ -16,3 +16,19 @@ body {
         background-color: #555480;
         color: #fff;
     }
+    :root {
+        --bs-primary: #b65ef2;
+        --bs-primary-rgb: 11, 0, 166;
+        --bs-secondary: #e56565;
+        --bs-secondary-rgb: 238, 143 , 0;
+    }
+    .expedu_icon:hover {
+        color: var(--bs-secondary);
+    }
+    a {
+        color:var(--bs-primary);
+    }
+
+    .social-icons .social-icons:hover {
+        background-color: var(--bs-secondary);
+    }
