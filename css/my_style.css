@@ -20,7 +20,7 @@ body {
         --bs-primary: #b65ef2;
         --bs-primary-rgb: 192, 94, 242;
         --bs-secondary: #e56565;
-        --bs-secondary-rgb: 229, 101 , 101;
+        --bs-secondary-rgb: 229, 101, 101;
     }
     .expedu_icon:hover {
         color: var(--bs-secondary);
