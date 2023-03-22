@@ -9,13 +9,13 @@ body {
     font-family: 'Noto Sans TC', sans-serif;
     text-transform: none;
     }
-    .expedu_icon{
-        color:#b58afb;
-    }
-    .expedu_icon{
-        background-color: #b58afb;
-        color: #b58afb;
-    }
+.expedu_icon {
+    color: #782a88;
+}
+.expedu_icon {
+    background-color: #fff;
+    color: #cf77b2;
+}
     :root {
         --bs-primary: #9f28f1;
         --bs-primary-rgb: 159, 10, 241;
