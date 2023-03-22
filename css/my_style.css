@@ -17,8 +17,8 @@ body {
         color: #fff;
     }
     :root {
-        --bs-primary: #b65ef2;
-        --bs-primary-rgb: 192, 94, 242;
+        --bs-primary: #9f28f1;
+        --bs-primary-rgb: 159, 10, 241;
         --bs-secondary: #e56565;
         --bs-secondary-rgb: 229, 101, 101;
     }
